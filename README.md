@@ -3,7 +3,7 @@
 ## Convict Management Console Application
 
 ### Overview
-The Convict Management Console Application is a simple C# application designed to demonstrate the usage of indexers and property accessors in object-oriented programming. It showcases how to interact with objects using both index-based and attribute name-based accessors, providing a practical example of accessing and modifying object properties dynamically.
+The Convict Management Console Application is a simple C# application designed to demonstrate the usage of indexers and property accessors. It showcases how to interact with objects using both index-based and attribute name-based accessors, providing a practical example of accessing and modifying object properties dynamically.
 
 ### Features
 - Dynamic Property Access: Utilize indexers to access and modify properties of a Convict object by index or attribute name.
