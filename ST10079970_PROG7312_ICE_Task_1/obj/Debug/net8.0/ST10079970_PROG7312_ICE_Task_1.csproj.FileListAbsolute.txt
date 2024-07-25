@@ -1,0 +1,14 @@
+C:\Users\lab_services_student\Desktop\Final PROG\ST10079970_PROG7312_ICE_Task_1\bin\Debug\net8.0\ST10079970_PROG7312_ICE_Task_1.exe
+C:\Users\lab_services_student\Desktop\Final PROG\ST10079970_PROG7312_ICE_Task_1\bin\Debug\net8.0\ST10079970_PROG7312_ICE_Task_1.deps.json
+C:\Users\lab_services_student\Desktop\Final PROG\ST10079970_PROG7312_ICE_Task_1\bin\Debug\net8.0\ST10079970_PROG7312_ICE_Task_1.runtimeconfig.json
+C:\Users\lab_services_student\Desktop\Final PROG\ST10079970_PROG7312_ICE_Task_1\bin\Debug\net8.0\ST10079970_PROG7312_ICE_Task_1.dll
+C:\Users\lab_services_student\Desktop\Final PROG\ST10079970_PROG7312_ICE_Task_1\bin\Debug\net8.0\ST10079970_PROG7312_ICE_Task_1.pdb
+C:\Users\lab_services_student\Desktop\Final PROG\ST10079970_PROG7312_ICE_Task_1\obj\Debug\net8.0\ST10079970_PROG7312_ICE_Task_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Desktop\Final PROG\ST10079970_PROG7312_ICE_Task_1\obj\Debug\net8.0\ST10079970_PROG7312_ICE_Task_1.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Desktop\Final PROG\ST10079970_PROG7312_ICE_Task_1\obj\Debug\net8.0\ST10079970_PROG7312_ICE_Task_1.AssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\Final PROG\ST10079970_PROG7312_ICE_Task_1\obj\Debug\net8.0\ST10079970_PROG7312_ICE_Task_1.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Desktop\Final PROG\ST10079970_PROG7312_ICE_Task_1\obj\Debug\net8.0\ST10079970_PROG7312_ICE_Task_1.dll
+C:\Users\lab_services_student\Desktop\Final PROG\ST10079970_PROG7312_ICE_Task_1\obj\Debug\net8.0\refint\ST10079970_PROG7312_ICE_Task_1.dll
+C:\Users\lab_services_student\Desktop\Final PROG\ST10079970_PROG7312_ICE_Task_1\obj\Debug\net8.0\ST10079970_PROG7312_ICE_Task_1.pdb
+C:\Users\lab_services_student\Desktop\Final PROG\ST10079970_PROG7312_ICE_Task_1\obj\Debug\net8.0\ST10079970_PROG7312_ICE_Task_1.genruntimeconfig.cache
+C:\Users\lab_services_student\Desktop\Final PROG\ST10079970_PROG7312_ICE_Task_1\obj\Debug\net8.0\ref\ST10079970_PROG7312_ICE_Task_1.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ST10079970_PROG7312_ICE_Task_1", "ST10079970_PROG7312_ICE_Task_1.csproj", "{6500D090-F479-400C-90E8-114CF3E6948D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convicts_Indexes_Test", "..\Convicts_Indexes_Test\Convicts_Indexes_Test.csproj", "{7848BD8E-2F5E-4D43-894F-2E1B91346CD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6500D090-F479-400C-90E8-114CF3E6948D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6500D090-F479-400C-90E8-114CF3E6948D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6500D090-F479-400C-90E8-114CF3E6948D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6500D090-F479-400C-90E8-114CF3E6948D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7848BD8E-2F5E-4D43-894F-2E1B91346CD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7848BD8E-2F5E-4D43-894F-2E1B91346CD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7848BD8E-2F5E-4D43-894F-2E1B91346CD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7848BD8E-2F5E-4D43-894F-2E1B91346CD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24CB13E2-0AEA-489F-BC9B-7A325A30C443}
+	EndGlobalSection
+EndGlobal
